@@ -25,7 +25,7 @@
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-%23F20000.svg?style=for-the-badge&logo=SolidWorks&logoColor=white)
 ![CasADi](https://img.shields.io/badge/CasADi-%230084D1.svg?style=for-the-badge&logo=CasADi&logoColor=white)
 ![AUTOSAR](https://img.shields.io/badge/AUTOSAR-%230A74DA.svg?style=for-the-badge&logo=AUTOSAR&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for
+ ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for)
 
 
 
