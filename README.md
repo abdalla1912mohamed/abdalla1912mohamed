@@ -14,3 +14,27 @@
 ![VHDL](https://img.shields.io/badge/-VHDL-02569B?logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 
+### 🚀 Technologies and Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-%2300AAFF.svg?style=for-the-badge&logo=LangChain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFCC00.svg?style=for-the-badge&logo=HuggingFace&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23007997.svg?style=for-the-badge&logo=MathWorks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-%23F20000.svg?style=for-the-badge&logo=SolidWorks&logoColor=white)
+![CasADi](https://img.shields.io/badge/CasADi-%230084D1.svg?style=for-the-badge&logo=CasADi&logoColor=white)
+![AUTOSAR](https://img.shields.io/badge/AUTOSAR-%230A74DA.svg?style=for-the-badge&logo=AUTOSAR&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for
+
+
+
+
+
+
+
+
+
+
+
+
