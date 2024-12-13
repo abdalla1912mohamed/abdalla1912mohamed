@@ -1,7 +1,6 @@
 ## Hi there 👋
 ### I am Abdalla Mohamed , I work currently as a teaching assistant at the computer science department @ GUC  . 
-### I am a passionate software developer with expertise in AI & machine learning, Embedded Systems, Embedded Linux, NLP & RAG approaches, Robotic & automtive control, autonomous stack 
-### and a handful of programming languages 
+### I am a passionate software developer with expertise in AI & machine learning, Embedded Systems, Embedded Linux, NLP & RAG techniques , Robotic & automotive control, autonomous stack and a handful of programming languages. 
 
 ### 🚀 Languages & Tools
 
@@ -25,7 +24,9 @@
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-%23F20000.svg?style=for-the-badge&logo=SolidWorks&logoColor=white)
 ![CasADi](https://img.shields.io/badge/CasADi-%230084D1.svg?style=for-the-badge&logo=CasADi&logoColor=white)
 ![AUTOSAR](https://img.shields.io/badge/AUTOSAR-%230A74DA.svg?style=for-the-badge&logo=AUTOSAR&logoColor=white)
- ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-Expert-blue?style=for-the-badge)
+
 
 
 
