@@ -1,6 +1,7 @@
 ## Hi there 👋
 ### I am Abdalla Mohamed , I work currently as a standard AI/ML engineer in SEQOON and a part-timer teaching assistant at the computer science department @ GUC  . 
-### I am a passionate software developer with expertise in AI & machine learning, Embedded Systems, Embedded Linux, NLP & RAG techniques , Robotic & automotive control, autonomous stack and a handful of programming languages. 
+### I am a passionate software developer with expertise in AI & machine learning, Embedded Systems, Embedded Linux, NLP & RAG techniques , Robotics & automotive control, autonomous stack and a handful of programming languages. 
+### 2022 GUC Mechatronics Engineering graduate , Mathematics A-level Acheiver in IGCSE .
 
 ### 🚀 Languages & Tools
 
