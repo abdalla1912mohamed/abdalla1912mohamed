@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I am Abdalla Mohamed , I work currently as a teaching assistant at the computer science department @ GUC  . 
+### I am Abdalla Mohamed , I work currently as a standard AI/ML engineer in SEQOON and a part-timer teaching assistant at the computer science department @ GUC  . 
 ### I am a passionate software developer with expertise in AI & machine learning, Embedded Systems, Embedded Linux, NLP & RAG techniques , Robotic & automotive control, autonomous stack and a handful of programming languages. 
 
 ### 🚀 Languages & Tools
