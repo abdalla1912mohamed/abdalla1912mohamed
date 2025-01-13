@@ -26,6 +26,9 @@
 ![CasADi](https://img.shields.io/badge/CasADi-%230084D1.svg?style=for-the-badge&logo=CasADi&logoColor=white)
 ![AUTOSAR](https://img.shields.io/badge/AUTOSAR-%230A74DA.svg?style=for-the-badge&logo=AUTOSAR&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
 
 
 
