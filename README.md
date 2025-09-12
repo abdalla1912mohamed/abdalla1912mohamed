@@ -1,8 +1,7 @@
 ## Hi there 👋
-### I am Abdalla Mohamed , I work currently as a R/D  AI/ML software developer @ Stakpak , EX founder AI Engineer sw @ seqoon , EX teaching assistant at the computer science / mechatronics department @ GUC  . 
-### I am a passionate software developer with expertise in GEN AI & machine learning, Embedded Systems, Embedded Linux, NLP & RAG techniques , Robotics & automotive control, autonomous stack and a handful of programming languages. 
-### 2022 GUC Mechatronics Engineering graduate , Mathematics A-level Achiever in IGCSE .
-
+### I am Abdalla Mohamed , I work currently as a AI R/D software developer @ Stakpak , EX founder AI Engineer sw @ seqoon , EX teaching assistant at the computer science / mechatronics department @ GUC  . 
+### AI Research & Development Engineer researching and exploring autonomous coding agents, prompt optimization, and AI system evaluation. Currently advancing AI-powered development tools through agent performance analysis, building evaluation frameworks, and exploring auto-prompt optimization techniques. Focuses on creating innovative features through unconventional and creative approaches to solve complex AI challenges.
+### 2022 GUC Mechatronics Engineering graduate
 ### 🚀 Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
