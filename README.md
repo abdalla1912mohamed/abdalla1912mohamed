@@ -12,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![VHDL](https://img.shields.io/badge/-VHDL-02569B?logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![Rust](https://img.icons8.com/?size=100&id=haeAxVQEIg0F&format=png&color=000000)
+![Rust]([https://img.icons8.com/?size=100&id=haeAxVQEIg0F&format=png&color=000000](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white))
 ### 🚀 Technologies and Frameworks
 ![LangChain](https://img.shields.io/badge/LangChain-%2300AAFF.svg?style=for-the-badge&logo=LangChain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFCC00.svg?style=for-the-badge&logo=HuggingFace&logoColor=black)
