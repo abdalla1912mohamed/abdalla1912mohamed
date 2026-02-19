@@ -1,7 +1,91 @@
 ## Hi there 👋
-### I am Abdalla Mohamed , I work currently as a AI R/D software developer @ Stakpak , EX founder AI Engineer sw @ seqoon , EX teaching assistant at the computer science / mechatronics department @ GUC  . 
-### AI Research & Development Engineer researching and exploring autonomous coding agents, prompt optimization, and AI system evaluation. Currently advancing AI-powered development tools through agent performance analysis, building evaluation frameworks, and exploring auto-prompt optimization techniques. Focuses on creating innovative features through unconventional and creative approaches to solve complex AI challenges.
-### 2022 GUC Mechatronics Engineering graduate
+# Abdalla Mohamed
+
+## Agentic AI Engineer | Autonomous Systems | AI Infrastructure
+
+I design, evaluate, and productionize autonomous coding agents.
+
+Currently building open-source DevOps AI agents at **Stakpak**, focusing on long-running autonomous systems, evaluation science, and reliable agent execution.
+
+---
+
+## 🧠 What I Specialize In
+
+- Autonomous coding agents (24/7 infra agents)
+- Agent evaluation frameworks & benchmarking datasets
+- Context engineering & dynamic memory systems
+- Multi-agent orchestration
+- Auto-prompt optimization systems
+- Hallucination detection & recovery pipelines
+- RAG systems with trusted, fresh retrieval
+- Fine-tuning small LLMs (LoRA / QLoRA)
+- Long-session reasoning reliability
+
+---
+
+## 🚀 Current Work — Stakpak
+
+Founding AI R&D Engineer building a DevOps coding agent in Rust competing in the autonomous CLI agent space.
+
+### Core Contributions
+
+- Architected agentic search & retrieval system (trusted domains, semantic reranking, freshness guarantees)
+- Designed and built internal DevOps evaluation datasets (Terminal-style containerized benchmarks)
+- Implemented automated A/B testing pipelines with LLM-as-judge scoring
+- Built sub-goal trajectory analysis to detect reasoning failure patterns
+- Designed hallucination detection supervisors for real-time agent correction
+- Developed auto-prompt optimization framework (textual gradient refinement + multi-tier evaluation)
+- Contributed to Autopilot mode (long-running autonomous infrastructure agent)
+
+---
+
+## 🎯 Current Research Interests
+---
+- Reliable autonomous coding agents
+- Evaluation science for LLM systems
+- Context & tool design engineering 
+- Prompt optimization algorithms
+- Agent observability & telemetry
+- Infrastructure-aware AI systems
+## 🏗 Previous Experience
+
+**Seqoon** — Built and deployed production RAG and voice-agent systems as Founding AI Engineer.
+
+**German University in Cairo (GUC)** — Senior Teaching Assistant in CS & Mechatronics, supervising deep learning and autonomous systems projects.
+
+## 🛠 Technical Stack
+
+### Languages
+Python • Rust • C/C++ • SQL • Bash
+
+### LLM & Agents
+LangChain • LangGraph • DSPy • Adalflow  
+vLLM • Ollama • Unsloth  
+LoRA / QLoRA fine-tuning  
+Multi-agent systems
+
+### Retrieval & RAG
+Milvus • Pinecone • Neo4j • Typesense  
+Hybrid search (BM25 + embeddings)  
+Semantic reranking  
+Metadata-aware retrieval
+
+### DevOps & Infra
+Docker • Kubernetes • K3s  
+Harbor • Traefik • NGINX  
+CI/CD • AWS  
+Prometheus • Trivy • Checkov
+
+### Backend & Tooling
+FastAPI • Django • Axum  
+MongoDB • PostgreSQL  
+Streamlit • Git • Linux
+
+## 🌍 Links
+
+LinkedIn: https://linkedin.com/in/abdalla1912mohamed  
+Stakpak Agent: https://github.com/stakpak/agent
+---
 ### 🚀 Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
