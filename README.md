@@ -69,7 +69,7 @@ Shipped **SAI Dubai**, a bilingual (AR/EN) real-estate chatbot on a full RAG pip
 
 ## 🎤 Events, Speaking & Community
 
-- **AI Engineering Workshop Series** — SOIL Coworking, Cairo · *Lead Instructor & Organizer* (`Jun–Jul 2026`, 4 sessions, 16+ teaching hours). A 4-session agentic AI series from GPT foundations to shipping production agents, with 8+ industry mentors, closing with a hackathon night of up to 25 pitching teams.
+- **AI Engineering Workshop Series** — SOIL Coworking, Cairo · *Lead Instructor & Organizer* (`Jun–Jul 2026`, 4 sessions, 16+ teaching hours). A 4-session agentic AI series from GPT foundations to shipping production agents, with 8+ industry mentors, closing with a hackathon night of up to 25 pitching teams https://www.youtube.com/watch?v=7ieDMwmKSn4&t=151s .
 - **YouTube Live with Ahmed El Emam** — Guest speaker on AI engineering, coding agents & agentic-AI careers.
 - **DevOpsDays Cairo 2025** — Technical speaker: live demo of the Stakpak agent dockerizing a web app in under 15 minutes.
 - **GenAI Hackathon Cairo 2025** — Co-organizer & workshop leader (150+ participants); recruited judges from Vectara, Valeo, and Thundr.
