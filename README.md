@@ -33,7 +33,7 @@ Optimizing DataCamp's AI-native course tutor, among the most efficient and top-r
 ### Founder & CEO — Bareq (Agentic AI Solutions Agency) `2025 – Present`
 Founded and lead an agentic AI software agency delivering cybersecurity agents (SOC analysis), HR-department automation, R&D process automation, intelligent CRMs, and AI-native web apps — 5 clients closed, owning delivery from architecture to deployment.
 
-### Founding R&D AI Software Engineer — Stakpak (DevOps Coding Agent) `Mar 2025 – Mar 2026`
+### Founding R&D AI Software Engineer — Stakpak (acquired by Vercel, 2026)(DevOps Coding Agent) `Mar 2025 – Mar 2026`
 Full-cycle AI product engineer on the founding team of an open-source autonomous CLI agent, implemented in **Rust and Python**.
 - Architected an end-to-end **agentic search & retrieval system** (Rust) with caching, semantic reranking, trusted-domain filtering, and iterative LLM-based refinement — **+40% recall, +55% precision** with guaranteed freshness (benchmarked Crawl4AI, Playwright, Context7 MCP).
 - Pioneered Stakpak's first **DevOps evaluation dataset** on the Harbor framework (Terminal-Bench standard) — containerized tasks with Docker environments and automated verification.
